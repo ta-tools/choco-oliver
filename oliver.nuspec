@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>oliver</id>
+    <version>0.1.574</version>
+    <title>Oliver (AskWashU APIM Explorer)</title>
+    <authors>Steven Sparks</authors>
+    <projectUrl>https://github.com/ta-tools/oliver-release</projectUrl>
+    <packageSourceUrl>https://github.com/ta-tools/choco-oliver</packageSourceUrl>
+    <tags>washu apim ai llm mcp proxy</tags>
+    <summary>Chat, MCP test bench, and a local API proxy for the WashU AI gateway.</summary>
+    <description>AskWashU APIM Explorer — a desktop client for every WashU model, an MCP test bench, and a local API proxy so any OpenAI/Anthropic/Google tool can use the WashU gateway. Installs the signed + Trusted-Signed Windows build from the public mirror.</description>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
