@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>oliver</id>
-    <version>0.1.580</version>
+    <version>0.1.581</version>
     <title>Oliver (AskWashU APIM Explorer)</title>
     <authors>Steven Sparks</authors>
     <projectUrl>https://github.com/ta-tools/oliver-release</projectUrl>
